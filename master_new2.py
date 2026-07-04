@@ -1,0 +1,2 @@
+print("sunday")
+print("leave")

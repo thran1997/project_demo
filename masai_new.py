@@ -1,2 +1,6 @@
 print("T20")
 print("ENG vs IND")
+print("IPL")
+print("B")
+print("c")
+print("Pavithran")
